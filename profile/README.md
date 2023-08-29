@@ -3,7 +3,7 @@
 <br>
 
 #### 🤗 배부른 개발자들
-##### 포만 팀은 [프론트엔드 개발자 한 명](https://github.com/kimgh06), [백엔드 개발자 한 명](https://github.com/ani2689), [디자이너 한 명](https://github.com/sonheylin), [데브옵스 한 명](https://github.com/shk0625)으로 총 네 명으로 이루어져 있어요.
+##### 포만 팀은 [프론트엔드 개발자 한 명](https://github.com/kimgh06), [백엔드 개발자 한 명](https://github.com/ani2689), [디자이너 한 명](https://github.com/sonheylin), [데브옵스 한 명](https://github.com/shk0625), 총 네 명으로 이루어져 있어요.
 
 #### 😋 우리는 언제나
 ##### 포만 팀은 늘 맛난 서비스를 제공하기 위해 열심히 노력하고 있어요!
